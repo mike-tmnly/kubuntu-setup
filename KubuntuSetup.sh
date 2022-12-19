@@ -25,6 +25,12 @@ sudo apt install -y \
     elisa \
     exa \
     fish \
+    fonts-courier-prime \
+    fonts-firacode \
+    fonts-ibm-plex \
+    fonts-inter \
+    fonts-jetbrains-mono \
+    fonts-texgyre \
     inxi \
     libspa-0.2-bluetooth \
     libspa-0.2-jack \
