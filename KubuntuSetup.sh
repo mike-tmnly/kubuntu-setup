@@ -56,6 +56,7 @@ sudo flatpak install -y \
     com.valvesoftware.Steam.CompatibilityTool.Proton-GE \
     com.visualstudio.code \
     com.vscodium.codium \
+    io.github.wereturtle.ghostwriter \
     md.obsidian.Obsidian \
     net.displaycal.DisplayCAL \
     org.ardour.Ardour \
